@@ -1,6 +1,11 @@
 #include <stdio.h>
-
-int main(){
-    printf("Hello world!");
-    return 0;
-}
+    int main()
+    {
+        int x=0;
+        if (x) {
+            printf("hi");
+        }
+        else {
+            printf("how are u");
+        }
+    }
